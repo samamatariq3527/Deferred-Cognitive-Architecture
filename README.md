@@ -30,21 +30,6 @@ Modern Large Language Models (LLMs) incur quadratic computational complexity $O(
    - Reduces context overhead from $N$ total tokens to $k$ relevant tokens ($k \ll N$).
 
 ---
-
-## Citation
-
-If you use or reference DCA in your research or system design, please cite:
-
-```bibtex
-@publication{tariq_samama_2026_dca,
-  author       = {Samama Tariq},
-  title        = {Deferred Cognitive Architecture (DCA): Resolving Context Degradation \& Compute Bottlenecks in Large Language Models},
-  year         = 2026,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.23839670},
-  url          = {[https://doi.org/10.5281/zenodo.23839670](https://doi.org/10.5281/zenodo.23839670)}
-}
-
 ---
 
 ## 🧪 Reference Prototype
@@ -61,3 +46,18 @@ The `prototype/` directory contains a minimal Python reference implementation (`
    ```bash
    git clone [https://github.com/samamatariq3527/Deferred-Cognitive-Architecture.git](https://github.com/samamatariq3527/Deferred-Cognitive-Architecture.git)
    cd Deferred-Cognitive-Architecture
+
+
+## Citation
+
+If you use or reference DCA in your research or system design, please cite:
+
+```bibtex
+@publication{tariq_samama_2026_dca,
+  author       = {Samama Tariq},
+  title        = {Deferred Cognitive Architecture (DCA): Resolving Context Degradation \& Compute Bottlenecks in Large Language Models},
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.23839670},
+  url          = {[https://doi.org/10.5281/zenodo.23839670](https://doi.org/10.5281/zenodo.23839670)}
+}
