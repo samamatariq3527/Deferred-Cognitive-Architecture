@@ -7,7 +7,7 @@
 > **Whitepaper PDF:** [Download Full Whitepaper](./dca_whitepaper.pdf)  
 > **Official Citation DOI:** https://doi.org/10.5281/zenodo.23839670
 
-![Deferred Cognitive Architecture Diagram](assets/dca_architecture.png)
+![Deferred Cognitive Architecture Diagram](dca_architecture.png.png)
 
 ---
 ---
