@@ -44,3 +44,20 @@ If you use or reference DCA in your research or system design, please cite:
   doi          = {10.5281/zenodo.23839670},
   url          = {[https://doi.org/10.5281/zenodo.23839670](https://doi.org/10.5281/zenodo.23839670)}
 }
+
+---
+
+## 🧪 Reference Prototype
+
+The `prototype/` directory contains a minimal Python reference implementation (`dca_core.py`) demonstrating the three-tier Deferred Cognitive Architecture:
+
+* **Tier 1 (Mechanical Router):** $O(1)$ deterministic filtering to extract relevant $k$-tokens.
+* **Tier 2 (Async Relays):** Non-blocking background queue ingestion.
+* **Tier 3 (Deferred Reasoning):** System-2 model invocation strictly on clean, pre-filtered payloads ($k \ll N$).
+
+### Running the Prototype Locally
+
+1. Clone your repository or navigate into your local folder:
+   ```bash
+   git clone [https://github.com/samamatariq3527/Deferred-Cognitive-Architecture.git](https://github.com/samamatariq3527/Deferred-Cognitive-Architecture.git)
+   cd Deferred-Cognitive-Architecture
