@@ -44,7 +44,7 @@ The `prototype/` directory contains a minimal Python reference implementation (`
 
 1. Clone your repository or navigate into your local folder:
    ```bash
-   git clone [https://github.com/samamatariq3527/Deferred-Cognitive-Architecture.git](https://github.com/samamatariq3527/Deferred-Cognitive-Architecture.git)
+   git clone https://github.com/samamatariq3527/Deferred-Cognitive-Architecture.git
    cd Deferred-Cognitive-Architecture
 
 
